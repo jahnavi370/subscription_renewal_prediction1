@@ -1,0 +1,1001 @@
+user_id,usage_days,last_login,monthly_fee,renewed,tenure_months,contract_type,payment_method,support_tickets,plan_type,discount_applied,satisfaction_score
+1,6,0,9.99,0,29,Monthly,UPI,0,Basic,1,3.3
+2,19,4,19.99,1,15,Quarterly,UPI,4,Premium,0,3.3
+3,28,13,9.99,1,8,Quarterly,Net Banking,3,Basic,0,5.0
+4,14,8,14.99,1,21,Monthly,Credit Card,1,Basic,0,3.2
+5,10,13,14.99,0,19,Monthly,Debit Card,1,Basic,1,1.7
+6,7,0,9.99,0,23,Annual,UPI,4,Standard,0,3.3
+7,28,2,19.99,0,11,Annual,Net Banking,1,Standard,0,2.3
+8,20,12,19.99,0,11,Quarterly,Credit Card,1,Basic,0,3.3
+9,6,12,9.99,1,24,Monthly,Net Banking,1,Basic,1,2.1
+10,25,3,9.99,1,24,Monthly,Debit Card,3,Basic,1,5.0
+11,18,13,14.99,1,3,Monthly,UPI,1,Basic,0,4.5
+12,22,0,9.99,1,22,Annual,Net Banking,2,Standard,0,2.8
+13,10,0,19.99,1,2,Monthly,Net Banking,5,Standard,1,2.8
+14,10,7,9.99,1,24,Quarterly,Net Banking,1,Basic,0,5.0
+15,23,1,14.99,0,30,Monthly,Debit Card,2,Basic,0,2.4
+16,20,11,14.99,1,2,Quarterly,Net Banking,5,Basic,0,3.3
+17,3,14,14.99,1,21,Quarterly,Debit Card,1,Premium,0,2.2
+18,7,7,14.99,0,33,Annual,Debit Card,4,Premium,0,2.7
+19,23,6,14.99,0,12,Monthly,Debit Card,4,Premium,0,2.8
+20,2,9,9.99,1,22,Monthly,UPI,1,Basic,0,4.6
+21,21,9,9.99,0,25,Monthly,UPI,2,Basic,1,1.9
+22,20,1,9.99,0,27,Annual,Net Banking,3,Basic,0,1.8
+23,1,5,9.99,1,28,Annual,Net Banking,6,Basic,1,4.4
+24,23,5,14.99,1,16,Quarterly,UPI,0,Standard,0,4.8
+25,11,2,19.99,1,15,Quarterly,Credit Card,4,Standard,0,2.7
+26,29,10,9.99,1,3,Quarterly,UPI,3,Premium,0,4.9
+27,5,1,19.99,0,7,Monthly,Debit Card,1,Premium,1,3.0
+28,1,11,9.99,1,21,Annual,UPI,4,Basic,1,4.9
+29,27,0,9.99,0,9,Monthly,Debit Card,1,Standard,0,2.9
+30,20,5,19.99,1,18,Monthly,Net Banking,2,Basic,1,2.0
+31,0,11,14.99,1,4,Quarterly,Credit Card,1,Basic,0,3.9
+32,11,4,9.99,0,25,Monthly,Net Banking,4,Standard,1,3.8
+33,25,13,9.99,0,14,Monthly,Debit Card,3,Basic,1,2.3
+34,21,13,9.99,0,9,Quarterly,Debit Card,6,Standard,1,2.7
+35,28,10,19.99,0,26,Monthly,Debit Card,1,Basic,0,2.9
+36,11,8,14.99,0,2,Quarterly,Credit Card,2,Standard,0,1.0
+37,24,0,19.99,1,20,Monthly,UPI,1,Standard,0,5.0
+38,16,14,19.99,1,28,Monthly,Net Banking,2,Basic,0,3.3
+39,26,14,14.99,0,7,Monthly,Net Banking,3,Premium,0,3.4
+40,26,6,19.99,0,8,Monthly,UPI,3,Basic,0,2.9
+41,9,14,14.99,0,35,Quarterly,Net Banking,0,Standard,0,4.0
+42,27,4,9.99,1,14,Monthly,Credit Card,1,Standard,0,4.3
+43,27,4,14.99,0,17,Quarterly,Net Banking,1,Standard,0,2.8
+44,15,13,9.99,1,4,Monthly,Debit Card,4,Premium,0,3.3
+45,14,1,19.99,1,2,Quarterly,UPI,1,Basic,1,4.6
+46,29,10,19.99,1,6,Annual,Credit Card,4,Standard,0,2.5
+47,29,2,9.99,1,4,Quarterly,UPI,0,Standard,0,4.5
+48,14,6,19.99,0,29,Monthly,Credit Card,3,Premium,1,2.1
+49,29,5,14.99,1,18,Monthly,Debit Card,1,Basic,0,5.0
+50,18,11,9.99,0,26,Monthly,UPI,2,Standard,0,3.1
+51,11,1,19.99,0,34,Quarterly,Net Banking,4,Standard,0,3.5
+52,22,5,9.99,1,10,Monthly,Credit Card,2,Basic,0,4.1
+53,19,1,14.99,1,14,Monthly,UPI,1,Standard,1,2.6
+54,24,1,14.99,1,31,Quarterly,Net Banking,1,Basic,0,3.3
+55,2,1,19.99,0,15,Monthly,UPI,2,Standard,0,3.5
+56,4,13,14.99,0,8,Quarterly,UPI,1,Premium,0,3.1
+57,18,14,9.99,1,14,Monthly,UPI,2,Standard,0,4.9
+58,6,10,14.99,0,23,Monthly,Credit Card,1,Standard,1,3.3
+59,20,2,9.99,1,21,Quarterly,Net Banking,2,Standard,0,3.2
+60,8,14,9.99,1,16,Monthly,Debit Card,0,Basic,0,3.4
+61,6,1,14.99,1,18,Quarterly,Credit Card,1,Basic,0,4.1
+62,17,3,19.99,0,24,Monthly,Credit Card,4,Standard,0,1.1
+63,3,8,14.99,1,26,Monthly,Credit Card,3,Basic,0,5.0
+64,24,5,9.99,0,25,Annual,Debit Card,2,Basic,1,3.4
+65,27,0,9.99,1,29,Quarterly,Net Banking,2,Standard,1,5.0
+66,13,7,14.99,1,15,Quarterly,Net Banking,1,Basic,1,2.7
+67,17,14,19.99,1,1,Monthly,Net Banking,5,Basic,1,5.0
+68,25,11,19.99,0,25,Quarterly,UPI,0,Standard,0,4.8
+69,8,13,9.99,1,7,Monthly,UPI,2,Basic,0,2.9
+70,25,6,9.99,1,9,Monthly,UPI,3,Premium,1,4.6
+71,20,9,19.99,0,24,Annual,Debit Card,1,Premium,1,3.0
+72,1,2,14.99,0,1,Monthly,UPI,2,Standard,1,1.8
+73,19,0,9.99,1,8,Annual,Debit Card,4,Basic,0,4.4
+74,27,4,9.99,1,24,Monthly,Net Banking,3,Standard,0,4.7
+75,14,12,19.99,1,11,Monthly,UPI,2,Premium,1,3.5
+76,27,3,14.99,0,17,Quarterly,UPI,1,Standard,1,3.9
+77,6,9,19.99,0,8,Annual,Credit Card,3,Basic,1,1.7
+78,11,7,14.99,1,35,Quarterly,Debit Card,2,Standard,0,2.8
+79,28,0,14.99,0,35,Annual,Net Banking,1,Premium,0,3.1
+80,7,9,14.99,1,33,Quarterly,Credit Card,0,Standard,0,4.0
+81,14,0,9.99,1,5,Quarterly,Credit Card,0,Standard,1,3.4
+82,2,11,19.99,1,28,Annual,Net Banking,2,Standard,0,4.6
+83,13,3,19.99,1,7,Monthly,Credit Card,0,Standard,0,4.4
+84,16,7,14.99,1,9,Monthly,Debit Card,1,Basic,1,4.7
+85,3,4,9.99,0,8,Monthly,Debit Card,0,Standard,0,2.9
+86,17,1,9.99,1,12,Annual,UPI,0,Basic,1,4.5
+87,7,5,19.99,1,34,Annual,Credit Card,2,Standard,0,3.6
+88,3,4,9.99,1,33,Monthly,UPI,2,Basic,1,5.0
+89,1,1,9.99,0,23,Quarterly,Credit Card,4,Standard,0,2.3
+90,29,12,14.99,1,24,Annual,Debit Card,4,Basic,1,5.0
+91,5,13,9.99,0,35,Monthly,Debit Card,0,Standard,1,3.0
+92,21,10,14.99,1,22,Quarterly,Debit Card,2,Standard,0,2.9
+93,9,10,19.99,1,27,Annual,Credit Card,1,Basic,0,5.0
+94,3,10,9.99,1,35,Monthly,Debit Card,2,Basic,0,4.1
+95,21,2,19.99,0,1,Quarterly,Credit Card,1,Basic,0,3.7
+96,28,14,19.99,1,35,Monthly,UPI,0,Premium,1,5.0
+97,17,8,9.99,1,14,Annual,Credit Card,4,Standard,0,4.3
+98,25,6,9.99,0,3,Annual,UPI,4,Standard,0,2.5
+99,11,6,19.99,0,1,Annual,Credit Card,1,Basic,0,3.8
+100,1,14,9.99,0,5,Monthly,UPI,1,Standard,1,3.0
+101,9,10,14.99,0,26,Annual,Debit Card,3,Premium,1,3.5
+102,29,5,14.99,1,14,Annual,UPI,6,Premium,0,2.3
+103,3,7,9.99,1,27,Monthly,Debit Card,1,Standard,0,4.4
+104,13,3,19.99,1,9,Annual,Debit Card,1,Basic,0,3.5
+105,15,7,9.99,0,15,Monthly,UPI,3,Basic,0,4.3
+106,14,3,9.99,0,15,Quarterly,Credit Card,3,Basic,0,3.5
+107,7,7,19.99,1,26,Monthly,Credit Card,1,Basic,0,4.2
+108,13,8,19.99,0,13,Monthly,Net Banking,2,Basic,0,3.4
+109,22,2,14.99,1,32,Monthly,Credit Card,2,Basic,0,3.2
+110,27,2,19.99,1,32,Quarterly,Net Banking,1,Basic,0,5.0
+111,24,10,14.99,1,4,Monthly,Credit Card,2,Premium,0,5.0
+112,29,12,19.99,1,30,Quarterly,Credit Card,2,Standard,0,4.3
+113,7,1,9.99,0,23,Monthly,Debit Card,2,Premium,1,4.3
+114,20,12,14.99,0,15,Monthly,Net Banking,2,Standard,1,2.5
+115,15,9,14.99,0,29,Quarterly,Credit Card,2,Basic,0,2.4
+116,12,2,14.99,1,13,Quarterly,Net Banking,1,Standard,0,4.0
+117,17,2,9.99,0,32,Monthly,Debit Card,1,Basic,1,3.3
+118,14,4,9.99,0,7,Quarterly,Debit Card,5,Standard,1,2.7
+119,20,4,9.99,1,22,Annual,Net Banking,3,Basic,0,4.4
+120,23,1,9.99,0,28,Quarterly,Debit Card,3,Premium,0,3.2
+121,25,11,9.99,0,2,Monthly,UPI,1,Basic,0,2.2
+122,24,9,14.99,0,6,Monthly,UPI,2,Basic,0,3.4
+123,27,12,9.99,1,28,Annual,Debit Card,7,Premium,0,4.7
+124,27,5,14.99,1,28,Monthly,UPI,2,Basic,0,4.1
+125,27,4,9.99,1,20,Annual,Credit Card,2,Standard,0,4.9
+126,12,5,19.99,0,30,Quarterly,Net Banking,3,Standard,0,2.0
+127,8,0,14.99,1,11,Annual,Credit Card,0,Premium,0,4.4
+128,28,4,19.99,1,28,Quarterly,Net Banking,2,Premium,0,3.1
+129,14,8,14.99,0,25,Annual,Debit Card,2,Premium,0,2.1
+130,12,11,19.99,1,33,Monthly,Credit Card,2,Basic,0,3.5
+131,0,9,9.99,0,1,Quarterly,Debit Card,1,Premium,0,2.2
+132,24,13,9.99,1,27,Monthly,Debit Card,2,Standard,1,3.6
+133,6,1,9.99,1,13,Monthly,Net Banking,1,Standard,0,3.8
+134,8,0,14.99,0,3,Quarterly,Net Banking,2,Basic,1,3.7
+135,23,13,19.99,1,6,Annual,Net Banking,2,Standard,1,3.7
+136,0,9,9.99,1,8,Annual,Credit Card,5,Premium,0,2.7
+137,11,12,19.99,1,27,Quarterly,UPI,2,Premium,0,4.9
+138,7,10,19.99,0,9,Monthly,Net Banking,2,Standard,0,2.3
+139,23,8,9.99,0,33,Monthly,Net Banking,1,Basic,1,3.0
+140,10,9,9.99,0,24,Quarterly,Credit Card,1,Basic,1,3.4
+141,18,8,19.99,1,15,Monthly,Net Banking,0,Premium,1,4.2
+142,16,14,9.99,0,32,Monthly,Credit Card,0,Standard,0,3.9
+143,7,8,9.99,1,32,Monthly,Debit Card,2,Standard,0,4.4
+144,2,5,9.99,1,24,Monthly,Net Banking,4,Basic,0,3.3
+145,2,14,14.99,0,12,Monthly,Net Banking,2,Standard,0,4.7
+146,0,7,19.99,1,2,Monthly,Debit Card,5,Standard,0,4.2
+147,26,13,19.99,0,3,Monthly,Debit Card,1,Premium,0,2.9
+148,4,10,14.99,1,17,Monthly,Debit Card,1,Standard,1,4.8
+149,9,14,19.99,1,2,Annual,Net Banking,2,Basic,0,4.2
+150,6,12,9.99,0,2,Monthly,UPI,0,Standard,0,3.3
+151,25,0,19.99,0,28,Monthly,UPI,0,Basic,0,5.0
+152,8,9,9.99,1,23,Quarterly,UPI,4,Premium,1,3.8
+153,27,3,14.99,1,32,Monthly,Net Banking,3,Basic,1,3.7
+154,6,0,9.99,1,33,Annual,Debit Card,1,Standard,0,4.1
+155,8,7,19.99,1,1,Quarterly,Net Banking,2,Basic,0,4.9
+156,7,0,19.99,0,19,Monthly,Debit Card,0,Standard,0,1.8
+157,11,2,19.99,0,2,Monthly,Net Banking,0,Standard,1,1.4
+158,1,12,14.99,0,26,Annual,Net Banking,1,Standard,0,2.5
+159,0,3,14.99,1,32,Annual,Debit Card,2,Basic,0,2.7
+160,15,14,19.99,1,6,Monthly,UPI,2,Basic,0,3.7
+161,22,14,9.99,1,32,Quarterly,Debit Card,1,Basic,0,4.4
+162,22,14,14.99,0,4,Monthly,Credit Card,0,Standard,1,2.3
+163,29,7,19.99,1,11,Annual,Credit Card,3,Basic,0,2.9
+164,23,5,19.99,1,17,Monthly,Debit Card,3,Standard,0,4.1
+165,4,13,14.99,1,24,Annual,Net Banking,3,Premium,0,4.7
+166,2,9,14.99,1,5,Quarterly,Credit Card,5,Premium,0,2.6
+167,11,11,14.99,0,34,Quarterly,Credit Card,2,Standard,1,3.7
+168,7,6,9.99,0,6,Quarterly,Net Banking,2,Standard,0,3.7
+169,21,13,9.99,1,22,Monthly,Net Banking,3,Basic,1,4.8
+170,26,7,19.99,1,11,Monthly,UPI,2,Standard,1,5.0
+171,2,1,14.99,0,16,Monthly,Net Banking,2,Premium,0,4.8
+172,0,12,9.99,1,33,Monthly,Debit Card,2,Basic,0,3.7
+173,2,9,14.99,1,9,Quarterly,Debit Card,6,Standard,0,4.1
+174,4,13,19.99,1,6,Monthly,UPI,4,Premium,1,3.7
+175,14,10,9.99,1,16,Monthly,Credit Card,1,Premium,0,4.0
+176,13,7,9.99,0,29,Annual,Credit Card,6,Basic,0,4.2
+177,2,2,9.99,1,3,Annual,Net Banking,1,Standard,0,2.9
+178,0,6,19.99,1,20,Annual,Debit Card,3,Basic,1,3.3
+179,4,2,14.99,1,19,Annual,Credit Card,1,Basic,0,5.0
+180,25,14,9.99,1,26,Monthly,UPI,3,Premium,0,4.8
+181,22,6,19.99,1,3,Monthly,UPI,4,Premium,0,3.7
+182,13,13,14.99,0,19,Quarterly,Debit Card,3,Standard,0,3.7
+183,6,10,19.99,1,20,Quarterly,UPI,3,Basic,1,4.3
+184,26,14,14.99,1,32,Monthly,UPI,2,Premium,0,5.0
+185,8,11,19.99,1,7,Annual,Debit Card,4,Standard,1,4.1
+186,14,12,14.99,1,33,Monthly,Net Banking,4,Basic,0,4.8
+187,14,1,9.99,1,18,Monthly,Net Banking,1,Standard,0,5.0
+188,25,9,14.99,1,1,Quarterly,UPI,2,Basic,0,4.5
+189,9,5,19.99,1,11,Quarterly,Net Banking,2,Standard,0,4.0
+190,27,2,19.99,0,28,Quarterly,Net Banking,2,Standard,0,3.6
+191,12,2,14.99,0,25,Monthly,UPI,2,Basic,0,2.7
+192,18,14,9.99,1,23,Annual,Net Banking,2,Basic,0,5.0
+193,6,8,9.99,1,31,Monthly,UPI,4,Basic,0,4.1
+194,16,6,14.99,0,30,Monthly,Credit Card,1,Basic,0,2.8
+195,19,4,14.99,0,35,Annual,Debit Card,1,Standard,1,2.3
+196,28,11,19.99,1,7,Annual,Debit Card,1,Premium,0,4.9
+197,3,9,9.99,0,16,Annual,Net Banking,2,Basic,0,3.7
+198,29,6,14.99,0,26,Annual,Net Banking,1,Basic,0,2.6
+199,4,8,9.99,0,2,Quarterly,Net Banking,1,Standard,1,3.5
+200,22,0,14.99,0,1,Quarterly,Debit Card,3,Premium,1,1.8
+201,6,6,14.99,0,12,Monthly,Credit Card,2,Basic,0,3.1
+202,12,5,9.99,0,5,Monthly,Credit Card,1,Basic,1,3.4
+203,14,9,14.99,1,32,Monthly,Debit Card,1,Standard,0,5.0
+204,10,13,14.99,1,9,Monthly,Credit Card,3,Basic,0,3.4
+205,28,11,19.99,1,35,Quarterly,Debit Card,0,Basic,1,3.0
+206,3,8,14.99,1,19,Monthly,Credit Card,2,Standard,1,3.3
+207,12,0,14.99,0,16,Monthly,UPI,3,Standard,0,1.9
+208,6,12,14.99,0,3,Monthly,UPI,0,Standard,1,4.1
+209,26,3,19.99,1,20,Quarterly,Debit Card,3,Standard,0,5.0
+210,18,8,9.99,0,24,Monthly,Credit Card,2,Standard,1,3.3
+211,21,3,19.99,1,33,Annual,Net Banking,3,Basic,0,5.0
+212,27,9,19.99,1,24,Monthly,Credit Card,2,Basic,0,4.1
+213,1,2,9.99,1,11,Monthly,UPI,2,Basic,0,3.9
+214,9,8,19.99,0,8,Quarterly,UPI,3,Basic,0,2.7
+215,12,12,9.99,0,20,Annual,Credit Card,2,Standard,0,2.8
+216,29,1,19.99,1,35,Monthly,Credit Card,3,Premium,0,2.8
+217,24,14,9.99,0,25,Quarterly,Net Banking,2,Premium,0,3.2
+218,20,3,14.99,1,35,Quarterly,Net Banking,0,Standard,0,4.0
+219,5,14,19.99,1,25,Monthly,Credit Card,1,Basic,0,4.6
+220,27,5,19.99,1,29,Annual,Credit Card,3,Basic,0,4.1
+221,27,1,19.99,0,18,Quarterly,Credit Card,2,Premium,0,2.9
+222,11,14,19.99,1,18,Quarterly,Credit Card,3,Standard,1,3.3
+223,11,7,14.99,1,2,Annual,Debit Card,1,Standard,1,4.1
+224,19,7,19.99,0,35,Annual,Credit Card,2,Standard,1,3.6
+225,29,0,14.99,0,16,Quarterly,Net Banking,0,Standard,0,2.1
+226,29,11,14.99,1,33,Annual,UPI,1,Premium,1,4.1
+227,10,2,14.99,0,4,Quarterly,Debit Card,1,Basic,0,3.2
+228,25,9,14.99,0,33,Quarterly,Credit Card,0,Standard,0,2.4
+229,22,8,9.99,0,14,Quarterly,UPI,4,Premium,0,2.5
+230,27,4,9.99,1,21,Quarterly,Debit Card,6,Basic,1,4.2
+231,24,5,19.99,1,20,Monthly,UPI,4,Standard,0,3.1
+232,6,3,9.99,1,8,Annual,Credit Card,3,Basic,0,4.3
+233,29,9,9.99,0,7,Annual,Credit Card,1,Premium,0,2.3
+234,0,1,19.99,0,3,Monthly,Net Banking,4,Basic,1,3.9
+235,0,10,19.99,1,17,Annual,Credit Card,2,Standard,0,5.0
+236,24,7,19.99,1,33,Monthly,Credit Card,3,Basic,0,3.3
+237,26,10,9.99,0,12,Monthly,Debit Card,2,Standard,0,3.4
+238,29,12,9.99,1,22,Quarterly,Net Banking,0,Basic,0,3.4
+239,24,5,19.99,1,22,Monthly,Debit Card,2,Basic,0,4.8
+240,19,4,14.99,1,30,Annual,UPI,2,Standard,0,3.0
+241,12,8,19.99,1,8,Annual,Credit Card,3,Premium,1,4.4
+242,8,0,14.99,1,27,Quarterly,UPI,1,Basic,0,3.3
+243,2,4,14.99,0,27,Monthly,Debit Card,0,Basic,0,2.8
+244,6,5,19.99,1,34,Monthly,Credit Card,1,Standard,0,3.2
+245,5,4,19.99,1,21,Quarterly,Credit Card,3,Standard,0,4.7
+246,7,5,19.99,0,30,Annual,Debit Card,1,Premium,0,2.3
+247,26,5,9.99,1,33,Quarterly,Debit Card,1,Basic,0,4.4
+248,8,6,14.99,1,28,Monthly,Debit Card,2,Standard,0,3.7
+249,29,3,9.99,1,33,Quarterly,Debit Card,5,Basic,1,3.9
+250,4,13,9.99,1,5,Quarterly,Debit Card,4,Basic,0,4.1
+251,0,10,19.99,1,19,Quarterly,Credit Card,2,Standard,0,3.4
+252,18,13,9.99,1,4,Monthly,Debit Card,2,Standard,1,4.2
+253,9,13,19.99,0,35,Quarterly,Credit Card,5,Standard,0,4.2
+254,11,13,14.99,1,17,Quarterly,Credit Card,1,Basic,1,3.4
+255,23,14,19.99,0,28,Annual,Debit Card,2,Standard,0,3.9
+256,14,7,9.99,0,30,Monthly,Debit Card,1,Standard,0,4.2
+257,26,6,9.99,1,29,Quarterly,Net Banking,3,Premium,1,3.3
+258,21,8,19.99,1,6,Annual,Credit Card,0,Basic,0,2.8
+259,23,6,19.99,1,35,Monthly,Debit Card,0,Basic,0,4.2
+260,8,2,9.99,1,24,Annual,Debit Card,2,Basic,1,3.6
+261,19,2,14.99,1,29,Quarterly,Debit Card,1,Standard,0,5.0
+262,16,14,14.99,1,31,Monthly,Net Banking,1,Basic,0,4.0
+263,29,7,19.99,0,35,Monthly,Net Banking,2,Premium,0,2.4
+264,16,4,14.99,1,33,Quarterly,UPI,1,Basic,1,3.1
+265,25,3,9.99,1,21,Monthly,Credit Card,2,Premium,1,4.9
+266,19,7,19.99,1,32,Quarterly,UPI,2,Basic,0,3.5
+267,11,14,9.99,0,23,Monthly,Debit Card,3,Standard,0,3.0
+268,29,5,9.99,0,33,Quarterly,Net Banking,3,Premium,1,3.8
+269,6,1,14.99,0,3,Monthly,Net Banking,1,Basic,0,2.6
+270,1,3,19.99,0,18,Annual,UPI,1,Premium,0,3.0
+271,2,11,19.99,0,25,Annual,Net Banking,1,Standard,1,3.0
+272,16,10,14.99,1,31,Annual,Debit Card,2,Premium,1,4.5
+273,4,3,9.99,1,3,Quarterly,Net Banking,2,Standard,1,4.5
+274,16,14,9.99,0,24,Monthly,UPI,1,Basic,0,2.8
+275,23,5,9.99,0,32,Quarterly,Debit Card,1,Basic,0,3.1
+276,16,5,9.99,0,22,Monthly,UPI,3,Basic,0,2.7
+277,26,0,19.99,0,23,Monthly,Net Banking,1,Basic,0,1.8
+278,16,13,19.99,0,2,Monthly,UPI,5,Basic,0,3.2
+279,1,7,14.99,0,27,Monthly,UPI,2,Basic,1,4.5
+280,1,5,14.99,1,2,Quarterly,Credit Card,3,Standard,0,3.3
+281,27,2,19.99,1,26,Quarterly,Net Banking,0,Standard,1,3.4
+282,21,13,19.99,0,17,Monthly,Net Banking,3,Basic,0,2.3
+283,22,8,9.99,1,33,Monthly,UPI,0,Basic,0,4.6
+284,4,1,9.99,1,9,Annual,Credit Card,4,Standard,0,4.4
+285,0,14,14.99,0,29,Monthly,Net Banking,1,Basic,0,2.9
+286,0,10,19.99,0,26,Monthly,Debit Card,2,Basic,0,2.3
+287,18,7,14.99,1,35,Monthly,UPI,3,Basic,1,4.1
+288,29,9,19.99,0,25,Quarterly,Net Banking,1,Premium,1,1.7
+289,1,2,9.99,1,24,Quarterly,Debit Card,0,Premium,0,4.1
+290,20,12,14.99,1,13,Monthly,Net Banking,2,Basic,0,4.7
+291,11,11,14.99,0,7,Monthly,Debit Card,2,Standard,1,2.0
+292,25,4,19.99,0,20,Quarterly,UPI,2,Standard,0,1.8
+293,5,5,9.99,1,1,Quarterly,Net Banking,0,Standard,0,5.0
+294,22,9,14.99,0,8,Monthly,Net Banking,3,Standard,0,2.5
+295,3,5,9.99,0,16,Annual,Credit Card,5,Standard,1,3.9
+296,22,3,14.99,1,14,Monthly,UPI,1,Basic,0,3.9
+297,10,2,9.99,1,12,Monthly,Debit Card,2,Basic,0,3.9
+298,23,3,19.99,0,23,Annual,Net Banking,2,Standard,1,3.4
+299,26,0,14.99,1,15,Monthly,Net Banking,6,Premium,0,3.3
+300,16,3,14.99,0,28,Quarterly,Debit Card,1,Standard,0,3.1
+301,5,0,9.99,1,34,Monthly,UPI,2,Premium,0,3.7
+302,23,11,9.99,1,2,Monthly,Credit Card,1,Premium,1,2.9
+303,4,14,14.99,1,32,Annual,Credit Card,1,Basic,0,4.3
+304,19,0,19.99,1,23,Monthly,Net Banking,2,Standard,1,3.8
+305,1,9,9.99,1,22,Annual,Debit Card,0,Standard,0,3.9
+306,5,13,9.99,0,25,Monthly,Net Banking,4,Premium,0,2.0
+307,21,5,9.99,1,22,Monthly,Debit Card,2,Premium,1,5.0
+308,10,4,14.99,0,22,Monthly,Credit Card,3,Standard,0,3.7
+309,15,13,14.99,0,6,Quarterly,UPI,1,Basic,0,3.8
+310,15,10,14.99,0,15,Monthly,Debit Card,1,Standard,0,2.8
+311,0,14,14.99,1,33,Annual,Credit Card,3,Basic,0,2.6
+312,8,3,19.99,1,8,Monthly,Net Banking,2,Standard,0,5.0
+313,27,12,19.99,0,5,Annual,Debit Card,2,Premium,0,3.0
+314,26,10,14.99,0,4,Monthly,UPI,0,Basic,0,2.4
+315,5,2,19.99,1,6,Annual,Net Banking,1,Standard,1,4.3
+316,15,0,9.99,1,32,Quarterly,Net Banking,2,Standard,0,4.9
+317,28,5,9.99,0,30,Quarterly,Credit Card,0,Standard,1,3.0
+318,2,1,9.99,1,35,Annual,Debit Card,4,Basic,0,5.0
+319,19,7,14.99,1,16,Quarterly,Net Banking,5,Standard,0,4.9
+320,27,9,9.99,1,13,Quarterly,UPI,0,Premium,0,3.1
+321,26,4,19.99,0,30,Monthly,Debit Card,0,Premium,0,2.5
+322,3,6,14.99,1,19,Monthly,UPI,6,Basic,0,4.8
+323,18,9,19.99,1,17,Annual,Net Banking,0,Premium,1,1.8
+324,25,11,9.99,1,19,Quarterly,UPI,1,Standard,1,3.9
+325,2,1,9.99,1,28,Quarterly,Credit Card,0,Basic,1,2.9
+326,18,12,9.99,1,26,Monthly,UPI,3,Basic,0,3.6
+327,19,7,14.99,0,26,Monthly,Debit Card,2,Basic,1,2.8
+328,6,1,19.99,1,23,Monthly,UPI,3,Premium,0,3.7
+329,19,3,14.99,1,9,Quarterly,UPI,5,Standard,0,3.6
+330,8,0,14.99,0,12,Monthly,Credit Card,5,Standard,1,2.1
+331,0,14,9.99,1,1,Monthly,UPI,2,Basic,0,5.0
+332,7,4,14.99,0,1,Monthly,UPI,3,Standard,0,4.5
+333,6,8,14.99,0,34,Monthly,Net Banking,6,Basic,0,2.1
+334,17,0,9.99,1,32,Quarterly,Net Banking,3,Basic,0,5.0
+335,7,8,14.99,1,25,Monthly,Debit Card,2,Standard,1,3.7
+336,0,10,9.99,1,1,Quarterly,Net Banking,3,Basic,0,4.1
+337,10,14,9.99,0,16,Monthly,Net Banking,1,Premium,1,2.9
+338,27,7,9.99,1,5,Monthly,Net Banking,1,Basic,0,3.5
+339,24,5,9.99,0,22,Monthly,Net Banking,4,Standard,0,3.8
+340,24,6,14.99,0,29,Monthly,Credit Card,0,Standard,0,3.1
+341,17,2,9.99,1,3,Monthly,Net Banking,6,Standard,0,3.6
+342,22,13,9.99,1,12,Monthly,Credit Card,2,Basic,0,3.0
+343,29,14,14.99,1,26,Quarterly,Credit Card,3,Basic,1,3.3
+344,9,0,14.99,0,16,Monthly,Net Banking,2,Premium,1,1.7
+345,2,4,19.99,1,22,Quarterly,UPI,0,Basic,1,4.0
+346,6,13,14.99,1,29,Annual,Credit Card,1,Premium,1,3.0
+347,27,11,14.99,1,14,Quarterly,UPI,4,Premium,1,3.8
+348,15,11,19.99,1,28,Monthly,UPI,3,Basic,0,5.0
+349,25,1,14.99,0,5,Monthly,Net Banking,3,Basic,1,4.0
+350,15,13,14.99,0,30,Monthly,Debit Card,5,Standard,0,3.0
+351,24,4,14.99,1,5,Monthly,Net Banking,1,Premium,0,3.9
+352,19,7,14.99,0,12,Annual,Debit Card,4,Premium,0,4.5
+353,27,10,19.99,0,16,Monthly,Debit Card,1,Standard,0,3.4
+354,16,8,14.99,1,26,Monthly,Net Banking,1,Standard,0,3.7
+355,1,1,14.99,1,26,Quarterly,Net Banking,1,Basic,1,2.9
+356,0,11,19.99,1,21,Quarterly,Debit Card,0,Premium,0,4.3
+357,15,2,9.99,1,33,Quarterly,Net Banking,1,Premium,0,4.7
+358,29,2,19.99,1,30,Monthly,Debit Card,4,Basic,0,3.5
+359,11,0,9.99,0,23,Monthly,UPI,2,Basic,0,3.2
+360,4,7,19.99,0,10,Quarterly,Net Banking,1,Basic,0,2.7
+361,4,5,19.99,0,5,Monthly,UPI,1,Basic,0,2.9
+362,26,11,14.99,0,34,Monthly,Credit Card,1,Premium,0,1.0
+363,22,12,9.99,1,31,Monthly,UPI,2,Basic,0,3.8
+364,8,7,14.99,0,10,Monthly,UPI,2,Basic,1,3.8
+365,8,10,9.99,1,19,Monthly,Debit Card,0,Basic,1,3.5
+366,2,8,19.99,0,32,Monthly,UPI,2,Premium,0,3.0
+367,18,4,19.99,0,1,Quarterly,Net Banking,1,Standard,0,2.4
+368,15,13,9.99,1,5,Quarterly,Debit Card,2,Standard,0,4.3
+369,15,11,14.99,0,4,Annual,Credit Card,2,Basic,1,2.8
+370,2,13,14.99,0,16,Monthly,Net Banking,0,Premium,0,2.2
+371,19,2,14.99,0,24,Monthly,Credit Card,2,Premium,0,4.1
+372,23,4,14.99,0,16,Monthly,UPI,0,Basic,1,3.7
+373,21,4,19.99,1,2,Quarterly,Net Banking,3,Basic,0,3.5
+374,23,4,19.99,0,28,Quarterly,Net Banking,4,Basic,0,3.4
+375,0,2,19.99,0,32,Monthly,Credit Card,4,Basic,0,3.4
+376,23,10,19.99,1,27,Annual,Net Banking,3,Standard,1,4.5
+377,19,13,19.99,0,20,Monthly,Net Banking,3,Premium,1,1.6
+378,10,9,14.99,1,24,Quarterly,Net Banking,2,Standard,1,4.8
+379,16,13,14.99,1,12,Quarterly,UPI,0,Premium,0,3.5
+380,7,3,14.99,1,35,Annual,Credit Card,2,Standard,0,3.7
+381,3,8,14.99,1,33,Quarterly,Net Banking,3,Standard,1,5.0
+382,5,12,19.99,0,33,Annual,Debit Card,1,Standard,1,3.2
+383,7,9,19.99,1,12,Monthly,Debit Card,2,Basic,0,3.7
+384,19,8,19.99,0,3,Annual,Debit Card,1,Basic,1,1.2
+385,29,1,9.99,1,1,Monthly,Debit Card,1,Standard,0,5.0
+386,2,7,14.99,0,33,Annual,UPI,2,Basic,0,1.9
+387,15,7,14.99,1,10,Quarterly,Net Banking,3,Basic,0,3.2
+388,29,6,19.99,1,29,Annual,Credit Card,2,Standard,0,3.7
+389,24,7,14.99,0,13,Monthly,Net Banking,0,Premium,1,4.1
+390,2,13,14.99,0,12,Quarterly,UPI,3,Standard,0,3.6
+391,24,2,19.99,1,31,Quarterly,Debit Card,2,Premium,0,3.9
+392,28,12,9.99,1,2,Quarterly,UPI,2,Standard,1,4.2
+393,17,5,9.99,0,35,Monthly,Net Banking,0,Standard,1,2.5
+394,13,0,9.99,1,23,Monthly,Credit Card,4,Standard,0,4.1
+395,17,6,19.99,1,17,Monthly,UPI,2,Premium,0,4.1
+396,1,14,14.99,1,26,Monthly,Credit Card,2,Standard,0,4.8
+397,21,14,19.99,0,8,Annual,UPI,1,Standard,0,3.8
+398,2,0,19.99,1,29,Monthly,Credit Card,2,Standard,1,4.4
+399,15,8,14.99,0,26,Annual,Credit Card,2,Standard,1,2.7
+400,28,0,9.99,1,10,Monthly,Debit Card,2,Basic,0,4.6
+401,8,0,9.99,1,26,Monthly,Credit Card,4,Basic,0,3.9
+402,3,14,19.99,0,34,Quarterly,Debit Card,0,Basic,0,2.1
+403,0,6,9.99,1,7,Quarterly,Net Banking,1,Premium,1,3.7
+404,3,1,19.99,0,4,Monthly,Net Banking,4,Basic,0,3.1
+405,0,13,19.99,1,11,Quarterly,Debit Card,0,Basic,0,4.7
+406,13,4,14.99,1,29,Quarterly,Debit Card,0,Standard,0,3.9
+407,20,7,14.99,1,25,Monthly,UPI,3,Basic,0,3.0
+408,15,7,14.99,0,21,Annual,UPI,0,Standard,0,3.0
+409,19,2,19.99,1,10,Annual,UPI,1,Basic,0,4.1
+410,23,6,14.99,0,9,Quarterly,Net Banking,0,Premium,1,3.1
+411,7,2,9.99,0,24,Monthly,UPI,1,Premium,1,3.7
+412,6,5,9.99,1,35,Quarterly,Credit Card,2,Premium,1,4.8
+413,2,5,19.99,0,35,Monthly,Credit Card,2,Standard,0,2.5
+414,16,2,19.99,0,18,Monthly,UPI,1,Standard,0,2.5
+415,0,6,14.99,1,32,Monthly,Credit Card,2,Basic,0,3.2
+416,15,2,19.99,0,24,Monthly,Net Banking,3,Basic,0,3.6
+417,11,7,19.99,0,23,Annual,Credit Card,0,Basic,1,4.2
+418,26,9,9.99,1,32,Quarterly,Net Banking,3,Standard,0,3.7
+419,18,3,9.99,0,12,Quarterly,Debit Card,1,Standard,0,2.8
+420,21,14,14.99,1,13,Monthly,Debit Card,4,Standard,1,5.0
+421,22,14,19.99,1,23,Monthly,Debit Card,5,Basic,1,4.4
+422,21,12,19.99,1,25,Monthly,Debit Card,1,Standard,0,4.3
+423,13,0,9.99,1,35,Annual,Credit Card,1,Standard,0,3.0
+424,29,3,19.99,0,30,Monthly,UPI,4,Standard,0,3.5
+425,5,13,9.99,0,17,Annual,Credit Card,1,Standard,0,2.3
+426,5,6,14.99,1,20,Quarterly,Net Banking,1,Basic,0,3.1
+427,12,10,9.99,1,25,Monthly,Credit Card,3,Premium,0,3.7
+428,18,3,19.99,1,22,Quarterly,Credit Card,2,Standard,1,3.5
+429,21,12,14.99,0,13,Monthly,Net Banking,0,Basic,0,2.8
+430,7,5,9.99,0,19,Annual,Debit Card,1,Basic,0,1.8
+431,26,8,9.99,0,12,Annual,Debit Card,2,Standard,0,3.8
+432,26,0,14.99,1,19,Monthly,Debit Card,1,Premium,0,4.9
+433,1,12,14.99,1,12,Monthly,UPI,4,Standard,1,2.4
+434,20,4,9.99,1,9,Quarterly,Net Banking,3,Basic,0,4.8
+435,29,10,19.99,1,7,Annual,Net Banking,0,Premium,0,3.4
+436,0,6,9.99,0,28,Monthly,Credit Card,2,Standard,0,3.7
+437,27,0,14.99,1,14,Quarterly,UPI,4,Standard,1,3.9
+438,14,13,9.99,1,31,Quarterly,Debit Card,2,Standard,0,4.0
+439,0,3,14.99,1,19,Quarterly,UPI,1,Basic,1,3.9
+440,4,5,14.99,1,16,Monthly,Net Banking,2,Standard,0,5.0
+441,27,1,19.99,1,5,Quarterly,Net Banking,2,Basic,0,3.0
+442,28,9,14.99,1,35,Annual,Credit Card,2,Premium,0,4.5
+443,15,4,14.99,0,12,Monthly,Credit Card,1,Standard,1,3.9
+444,18,10,19.99,0,25,Monthly,Net Banking,0,Standard,1,3.6
+445,3,9,14.99,1,21,Annual,Debit Card,3,Standard,0,5.0
+446,2,0,19.99,0,23,Monthly,Debit Card,6,Premium,0,2.6
+447,16,5,19.99,0,16,Annual,UPI,1,Premium,0,3.8
+448,16,5,14.99,0,14,Monthly,Net Banking,2,Standard,0,2.9
+449,11,12,14.99,1,31,Monthly,Net Banking,2,Standard,0,5.0
+450,27,14,9.99,0,5,Annual,Debit Card,2,Standard,1,3.0
+451,29,14,19.99,1,35,Monthly,Debit Card,2,Standard,1,3.7
+452,28,3,9.99,1,23,Quarterly,Net Banking,2,Basic,0,5.0
+453,13,12,14.99,0,29,Monthly,Credit Card,1,Standard,0,2.6
+454,20,7,9.99,0,11,Quarterly,Net Banking,4,Basic,1,1.9
+455,5,3,19.99,0,18,Monthly,Net Banking,3,Premium,1,2.6
+456,2,7,9.99,1,12,Monthly,Debit Card,0,Basic,0,4.5
+457,27,14,19.99,0,9,Annual,Debit Card,2,Premium,0,4.1
+458,8,12,14.99,0,10,Monthly,Credit Card,2,Standard,0,3.1
+459,4,7,14.99,0,17,Quarterly,Credit Card,3,Standard,0,4.1
+460,23,4,19.99,1,7,Monthly,UPI,1,Standard,0,2.9
+461,28,12,14.99,1,13,Quarterly,Net Banking,2,Basic,0,3.6
+462,16,14,14.99,1,9,Monthly,Debit Card,0,Basic,0,3.8
+463,13,3,14.99,1,27,Annual,Credit Card,3,Basic,0,3.9
+464,20,11,14.99,0,2,Monthly,UPI,3,Standard,0,3.1
+465,2,12,19.99,1,5,Monthly,UPI,2,Standard,0,4.6
+466,27,1,9.99,0,29,Monthly,Debit Card,0,Standard,1,2.6
+467,0,10,9.99,1,19,Monthly,Debit Card,3,Basic,1,4.1
+468,19,14,14.99,1,8,Quarterly,UPI,2,Basic,0,4.0
+469,28,2,9.99,1,1,Monthly,Credit Card,4,Standard,0,3.3
+470,20,2,9.99,0,22,Annual,UPI,1,Premium,1,2.9
+471,22,3,14.99,0,17,Monthly,Net Banking,3,Standard,0,2.9
+472,0,3,14.99,0,7,Monthly,Net Banking,2,Standard,0,2.9
+473,2,9,9.99,0,25,Quarterly,Debit Card,4,Standard,0,3.0
+474,17,10,19.99,0,4,Quarterly,Credit Card,0,Basic,0,3.1
+475,24,10,14.99,0,6,Monthly,Credit Card,2,Premium,0,2.7
+476,9,4,19.99,0,31,Monthly,Net Banking,1,Standard,1,4.0
+477,21,3,9.99,1,19,Monthly,UPI,1,Basic,0,3.1
+478,25,10,14.99,1,27,Quarterly,Debit Card,1,Standard,0,3.4
+479,2,13,19.99,1,10,Quarterly,UPI,0,Basic,1,5.0
+480,7,9,14.99,0,26,Monthly,UPI,1,Premium,0,2.2
+481,13,7,9.99,1,19,Annual,UPI,2,Basic,0,2.9
+482,23,5,19.99,0,3,Annual,Credit Card,3,Standard,0,3.6
+483,17,5,9.99,1,13,Quarterly,Net Banking,5,Basic,0,2.3
+484,14,7,9.99,0,28,Annual,Credit Card,3,Standard,0,2.8
+485,21,6,14.99,1,20,Monthly,Net Banking,2,Standard,0,5.0
+486,22,14,19.99,1,28,Monthly,Debit Card,4,Standard,0,2.8
+487,1,9,9.99,1,8,Monthly,Debit Card,3,Standard,0,2.4
+488,26,13,9.99,1,1,Monthly,UPI,2,Premium,0,2.8
+489,9,10,19.99,1,3,Quarterly,Net Banking,1,Basic,0,4.7
+490,1,11,9.99,1,13,Annual,Net Banking,1,Basic,0,4.9
+491,25,9,9.99,1,28,Monthly,Net Banking,4,Basic,0,3.6
+492,16,12,19.99,1,25,Monthly,UPI,5,Premium,0,4.5
+493,7,7,19.99,1,33,Monthly,UPI,1,Basic,1,5.0
+494,0,13,19.99,1,6,Annual,Debit Card,3,Standard,0,5.0
+495,8,1,19.99,1,32,Monthly,Credit Card,2,Standard,0,3.8
+496,10,8,14.99,1,21,Quarterly,Net Banking,1,Basic,1,2.2
+497,21,0,19.99,0,16,Monthly,Net Banking,2,Basic,0,2.3
+498,15,14,14.99,0,21,Monthly,Credit Card,1,Basic,0,2.7
+499,6,7,14.99,0,11,Annual,Net Banking,2,Standard,1,2.8
+500,28,11,14.99,0,35,Annual,UPI,1,Basic,1,2.8
+501,9,10,9.99,0,19,Monthly,UPI,0,Basic,0,3.9
+502,22,11,14.99,1,20,Annual,Net Banking,2,Premium,0,5.0
+503,25,11,14.99,0,18,Quarterly,UPI,1,Premium,0,2.9
+504,2,3,9.99,1,14,Annual,UPI,2,Basic,1,4.9
+505,17,3,9.99,0,15,Monthly,Net Banking,3,Basic,0,3.3
+506,24,4,9.99,0,31,Quarterly,Debit Card,0,Basic,0,3.1
+507,23,7,19.99,1,1,Monthly,Credit Card,0,Standard,1,4.7
+508,12,4,9.99,1,3,Quarterly,UPI,2,Premium,0,4.1
+509,27,7,9.99,0,16,Monthly,Debit Card,1,Basic,1,4.6
+510,25,14,14.99,1,23,Monthly,UPI,2,Basic,0,2.8
+511,6,9,9.99,1,11,Monthly,UPI,3,Standard,0,3.6
+512,24,0,19.99,0,12,Quarterly,Credit Card,2,Standard,0,2.9
+513,3,11,9.99,0,10,Monthly,UPI,3,Basic,1,3.4
+514,12,14,19.99,1,32,Quarterly,Credit Card,3,Standard,0,5.0
+515,19,9,9.99,1,16,Annual,Credit Card,3,Basic,0,4.0
+516,0,8,9.99,1,8,Monthly,Credit Card,2,Basic,0,2.9
+517,7,5,9.99,1,12,Quarterly,Debit Card,0,Standard,1,4.7
+518,13,2,9.99,0,24,Monthly,Net Banking,2,Premium,1,3.6
+519,15,12,19.99,1,28,Annual,Debit Card,2,Standard,0,2.4
+520,13,13,19.99,0,8,Monthly,Net Banking,2,Premium,0,3.0
+521,11,7,14.99,1,28,Quarterly,Net Banking,3,Standard,1,2.7
+522,18,8,19.99,1,26,Annual,Credit Card,1,Standard,0,3.5
+523,22,5,9.99,1,8,Annual,UPI,2,Standard,0,3.3
+524,14,10,14.99,0,28,Quarterly,Credit Card,0,Premium,0,3.6
+525,27,6,14.99,0,28,Monthly,UPI,0,Premium,1,3.1
+526,1,0,14.99,1,27,Quarterly,Net Banking,2,Basic,0,3.0
+527,1,13,9.99,1,17,Annual,Credit Card,3,Premium,0,4.7
+528,22,4,19.99,1,9,Quarterly,UPI,1,Premium,0,2.9
+529,21,4,9.99,0,33,Monthly,Debit Card,1,Standard,0,3.3
+530,18,9,14.99,1,20,Annual,UPI,4,Basic,0,3.3
+531,24,13,9.99,0,13,Quarterly,Credit Card,1,Premium,0,2.7
+532,25,3,9.99,1,28,Quarterly,Debit Card,2,Premium,0,4.4
+533,29,5,19.99,0,29,Monthly,UPI,0,Basic,0,3.4
+534,28,6,19.99,1,13,Quarterly,UPI,4,Premium,0,5.0
+535,21,8,14.99,0,35,Monthly,UPI,3,Basic,1,2.9
+536,25,0,9.99,1,6,Quarterly,UPI,2,Basic,1,4.2
+537,25,14,9.99,1,18,Monthly,UPI,2,Standard,1,3.6
+538,21,5,19.99,0,5,Quarterly,Debit Card,3,Standard,0,3.1
+539,16,6,9.99,0,25,Annual,Net Banking,3,Standard,0,3.4
+540,19,2,9.99,0,2,Monthly,Debit Card,1,Basic,0,2.9
+541,9,7,9.99,0,10,Annual,Debit Card,3,Premium,1,1.6
+542,5,14,19.99,1,30,Monthly,Debit Card,3,Basic,1,4.3
+543,14,4,14.99,1,5,Annual,Net Banking,0,Basic,1,4.3
+544,21,14,14.99,1,33,Quarterly,Credit Card,4,Basic,0,3.5
+545,10,8,9.99,1,1,Quarterly,Net Banking,4,Standard,0,3.0
+546,27,4,14.99,1,18,Quarterly,Debit Card,2,Premium,0,5.0
+547,4,8,19.99,0,32,Annual,UPI,2,Standard,0,3.4
+548,0,9,19.99,0,11,Monthly,UPI,2,Premium,0,2.8
+549,7,3,14.99,1,21,Monthly,Debit Card,0,Basic,1,3.1
+550,20,8,14.99,1,26,Quarterly,UPI,2,Standard,0,3.3
+551,27,4,9.99,0,25,Annual,Debit Card,2,Standard,0,4.0
+552,11,9,14.99,0,22,Quarterly,UPI,3,Standard,0,3.1
+553,11,8,9.99,1,27,Quarterly,Net Banking,0,Basic,1,3.6
+554,4,2,9.99,1,13,Monthly,Credit Card,1,Standard,0,4.4
+555,6,14,19.99,0,33,Annual,Credit Card,3,Standard,0,2.3
+556,3,3,19.99,1,34,Monthly,Net Banking,3,Standard,1,5.0
+557,5,8,19.99,1,35,Quarterly,Net Banking,4,Standard,0,5.0
+558,12,9,19.99,0,1,Monthly,Debit Card,0,Basic,0,2.6
+559,19,10,14.99,0,21,Monthly,Debit Card,3,Standard,0,2.5
+560,29,5,19.99,1,6,Monthly,Debit Card,1,Basic,0,1.9
+561,14,1,14.99,1,28,Monthly,UPI,2,Premium,1,2.8
+562,2,6,19.99,0,17,Quarterly,Debit Card,5,Standard,1,1.9
+563,22,1,14.99,1,5,Monthly,Net Banking,0,Basic,0,4.1
+564,7,10,9.99,1,31,Monthly,Credit Card,1,Premium,0,3.7
+565,19,1,14.99,1,5,Monthly,UPI,3,Standard,0,2.9
+566,15,10,14.99,1,3,Monthly,Debit Card,3,Basic,0,3.8
+567,12,0,19.99,1,23,Monthly,UPI,1,Standard,0,4.4
+568,17,10,14.99,1,10,Monthly,UPI,0,Basic,0,4.4
+569,27,10,9.99,1,10,Quarterly,Debit Card,3,Premium,0,2.5
+570,9,11,9.99,1,19,Quarterly,UPI,3,Premium,1,3.9
+571,29,10,19.99,1,17,Quarterly,Credit Card,0,Premium,0,2.9
+572,18,2,9.99,1,21,Monthly,Net Banking,2,Standard,0,4.7
+573,16,5,14.99,0,14,Monthly,Net Banking,0,Standard,0,3.6
+574,23,7,9.99,1,9,Annual,Credit Card,4,Standard,1,3.3
+575,18,8,19.99,1,1,Quarterly,UPI,0,Basic,0,3.4
+576,27,6,14.99,0,13,Monthly,Debit Card,2,Standard,0,2.6
+577,25,3,19.99,1,4,Monthly,UPI,1,Standard,0,2.2
+578,22,5,14.99,1,1,Monthly,Credit Card,0,Basic,1,4.3
+579,25,4,9.99,0,32,Monthly,UPI,1,Standard,0,2.8
+580,4,7,19.99,0,34,Monthly,Net Banking,2,Premium,1,3.8
+581,25,0,19.99,0,28,Quarterly,UPI,5,Premium,1,2.1
+582,20,0,14.99,0,31,Quarterly,Credit Card,1,Basic,1,2.5
+583,29,12,19.99,1,8,Quarterly,Net Banking,3,Basic,0,2.8
+584,22,14,14.99,0,26,Quarterly,UPI,1,Basic,0,2.2
+585,8,10,14.99,1,34,Annual,UPI,5,Premium,0,3.1
+586,11,5,14.99,1,3,Quarterly,Net Banking,2,Basic,1,4.8
+587,20,9,14.99,1,12,Annual,Debit Card,0,Standard,0,3.4
+588,0,11,9.99,1,1,Monthly,Net Banking,1,Basic,0,4.1
+589,25,1,14.99,0,5,Monthly,Debit Card,2,Standard,0,2.7
+590,25,4,19.99,1,30,Monthly,Credit Card,0,Basic,0,3.0
+591,0,0,9.99,0,30,Quarterly,Credit Card,1,Standard,0,2.9
+592,14,6,19.99,1,17,Annual,Net Banking,3,Basic,0,4.5
+593,1,0,9.99,1,23,Monthly,Net Banking,0,Standard,0,3.0
+594,29,3,14.99,0,15,Annual,Credit Card,0,Basic,1,3.6
+595,21,8,9.99,0,21,Monthly,Debit Card,2,Standard,0,2.3
+596,15,0,9.99,1,14,Annual,Credit Card,2,Premium,0,3.6
+597,24,3,19.99,1,2,Monthly,Net Banking,2,Basic,0,4.4
+598,7,5,19.99,1,11,Monthly,Credit Card,4,Premium,0,3.5
+599,12,5,14.99,0,34,Monthly,Net Banking,3,Standard,1,3.0
+600,20,11,9.99,1,34,Monthly,Net Banking,1,Basic,0,3.7
+601,0,14,9.99,0,18,Monthly,Credit Card,3,Standard,0,3.1
+602,15,12,9.99,1,30,Monthly,Debit Card,1,Basic,0,2.1
+603,28,7,14.99,1,15,Annual,UPI,3,Standard,1,2.5
+604,6,0,14.99,1,27,Quarterly,Credit Card,3,Standard,0,4.5
+605,4,6,14.99,1,34,Monthly,UPI,2,Basic,1,4.8
+606,21,0,14.99,0,33,Quarterly,Credit Card,3,Standard,0,2.3
+607,28,12,14.99,1,24,Quarterly,UPI,2,Premium,0,3.8
+608,22,13,19.99,1,15,Monthly,Debit Card,3,Premium,0,4.2
+609,2,6,9.99,0,30,Monthly,Debit Card,1,Standard,1,3.6
+610,11,2,9.99,1,17,Monthly,Credit Card,3,Premium,0,2.4
+611,25,10,9.99,0,5,Monthly,Net Banking,2,Standard,1,2.3
+612,15,7,9.99,1,29,Quarterly,UPI,4,Basic,0,3.7
+613,18,2,9.99,1,4,Monthly,Net Banking,3,Premium,0,4.6
+614,4,13,9.99,1,10,Quarterly,Net Banking,1,Standard,0,5.0
+615,21,13,9.99,0,17,Quarterly,Net Banking,1,Standard,1,2.8
+616,24,12,9.99,1,10,Monthly,Debit Card,2,Standard,0,2.9
+617,28,0,19.99,1,17,Quarterly,Credit Card,4,Premium,1,4.3
+618,13,12,9.99,1,20,Monthly,Credit Card,2,Premium,1,5.0
+619,27,12,19.99,1,24,Annual,Debit Card,3,Standard,1,4.1
+620,4,13,14.99,0,5,Monthly,Debit Card,1,Basic,0,2.3
+621,14,7,9.99,1,34,Annual,Credit Card,2,Standard,0,4.8
+622,16,2,14.99,1,6,Quarterly,Net Banking,4,Standard,1,4.5
+623,29,1,14.99,1,2,Monthly,UPI,4,Basic,0,3.2
+624,13,0,14.99,1,13,Quarterly,UPI,1,Standard,0,4.3
+625,29,13,19.99,1,11,Annual,UPI,3,Standard,0,4.8
+626,19,2,14.99,1,23,Quarterly,Net Banking,0,Basic,0,4.9
+627,4,14,14.99,1,16,Annual,Credit Card,2,Basic,0,3.9
+628,11,1,14.99,0,31,Annual,Debit Card,5,Basic,0,2.7
+629,15,1,9.99,0,11,Monthly,Credit Card,1,Premium,0,4.0
+630,25,5,9.99,0,16,Monthly,Net Banking,2,Basic,0,2.0
+631,25,11,19.99,0,8,Quarterly,Debit Card,2,Basic,0,3.4
+632,15,0,19.99,1,4,Monthly,Net Banking,0,Standard,0,2.9
+633,20,1,9.99,1,4,Annual,UPI,3,Basic,0,4.9
+634,6,13,19.99,1,25,Annual,UPI,1,Basic,0,3.8
+635,3,5,9.99,1,3,Monthly,Net Banking,4,Basic,0,5.0
+636,0,2,14.99,1,32,Monthly,Debit Card,5,Standard,0,4.4
+637,29,14,14.99,1,3,Quarterly,Debit Card,3,Standard,0,3.0
+638,29,3,19.99,1,27,Monthly,Credit Card,2,Basic,1,5.0
+639,4,0,9.99,1,29,Annual,UPI,0,Standard,0,5.0
+640,22,7,9.99,1,32,Monthly,Credit Card,3,Premium,1,4.7
+641,25,12,19.99,0,19,Quarterly,Credit Card,1,Basic,0,2.4
+642,9,6,9.99,0,21,Monthly,Net Banking,1,Basic,0,2.8
+643,21,6,14.99,1,5,Quarterly,Net Banking,1,Basic,0,4.1
+644,4,2,19.99,1,18,Monthly,Credit Card,1,Standard,0,3.4
+645,3,9,19.99,0,28,Quarterly,UPI,2,Standard,0,4.4
+646,1,9,9.99,1,22,Monthly,Net Banking,2,Basic,0,4.1
+647,19,2,19.99,1,21,Quarterly,Credit Card,1,Standard,0,1.8
+648,9,13,9.99,0,6,Annual,Credit Card,0,Basic,0,3.3
+649,25,1,9.99,0,1,Monthly,Credit Card,5,Standard,0,2.7
+650,18,11,9.99,1,5,Monthly,Credit Card,0,Standard,1,3.9
+651,25,0,9.99,1,12,Monthly,Credit Card,0,Basic,0,3.7
+652,0,6,9.99,0,26,Quarterly,Credit Card,1,Standard,0,3.6
+653,23,6,19.99,1,34,Quarterly,Net Banking,1,Basic,0,4.9
+654,4,11,14.99,1,14,Quarterly,UPI,3,Standard,0,4.2
+655,12,1,14.99,1,26,Monthly,Credit Card,1,Basic,1,3.7
+656,3,6,19.99,0,27,Monthly,Debit Card,0,Premium,0,3.0
+657,15,12,19.99,0,9,Quarterly,Net Banking,1,Basic,0,3.0
+658,23,7,14.99,1,26,Monthly,Net Banking,4,Premium,1,3.4
+659,15,0,14.99,1,22,Annual,Credit Card,2,Basic,0,4.5
+660,22,8,14.99,1,30,Monthly,Net Banking,0,Standard,0,4.4
+661,1,6,14.99,0,17,Quarterly,Credit Card,3,Basic,1,4.2
+662,16,2,14.99,1,26,Monthly,UPI,1,Premium,0,5.0
+663,27,7,9.99,0,1,Monthly,UPI,1,Basic,0,2.5
+664,26,6,19.99,0,8,Quarterly,Net Banking,0,Basic,0,3.7
+665,19,10,9.99,0,35,Quarterly,Net Banking,3,Standard,0,2.2
+666,23,14,14.99,0,15,Annual,Debit Card,1,Basic,0,3.6
+667,11,12,14.99,1,22,Monthly,Net Banking,0,Basic,1,3.6
+668,17,7,14.99,1,14,Monthly,Debit Card,2,Premium,0,3.2
+669,2,5,9.99,0,26,Quarterly,UPI,3,Premium,1,3.2
+670,27,8,9.99,1,28,Quarterly,UPI,1,Basic,1,1.9
+671,0,14,14.99,0,23,Monthly,Credit Card,5,Premium,0,1.6
+672,0,4,9.99,1,14,Monthly,UPI,3,Standard,0,3.9
+673,28,2,9.99,1,24,Monthly,Debit Card,3,Basic,0,4.1
+674,18,2,14.99,0,2,Annual,Net Banking,4,Standard,1,2.7
+675,10,0,9.99,1,26,Monthly,Credit Card,1,Standard,1,2.7
+676,4,11,19.99,0,14,Monthly,Debit Card,2,Premium,0,2.3
+677,11,14,19.99,0,7,Monthly,Net Banking,2,Basic,0,3.3
+678,2,7,19.99,0,3,Monthly,Credit Card,2,Standard,0,3.5
+679,0,1,19.99,1,23,Monthly,UPI,2,Basic,1,4.0
+680,0,2,14.99,1,18,Quarterly,Debit Card,3,Basic,0,4.9
+681,7,7,14.99,0,35,Monthly,Net Banking,3,Basic,0,3.3
+682,9,13,14.99,1,15,Annual,Credit Card,2,Premium,1,3.4
+683,10,7,19.99,1,25,Monthly,Credit Card,3,Premium,0,3.8
+684,11,13,19.99,1,28,Quarterly,UPI,1,Standard,0,2.9
+685,28,10,9.99,1,10,Annual,Net Banking,3,Standard,0,3.9
+686,12,3,9.99,1,17,Quarterly,UPI,5,Basic,0,4.9
+687,11,3,19.99,0,22,Quarterly,UPI,0,Basic,0,3.5
+688,13,4,19.99,0,26,Monthly,Net Banking,1,Basic,1,4.1
+689,1,5,19.99,1,25,Monthly,Net Banking,2,Basic,0,3.8
+690,28,4,19.99,0,17,Quarterly,Net Banking,0,Standard,0,4.1
+691,18,13,9.99,1,13,Annual,Debit Card,2,Standard,0,3.8
+692,17,14,19.99,1,20,Quarterly,Net Banking,0,Basic,0,5.0
+693,2,6,9.99,0,25,Quarterly,Credit Card,2,Basic,0,3.0
+694,22,1,19.99,0,4,Quarterly,UPI,1,Basic,1,3.6
+695,16,6,19.99,0,10,Monthly,Debit Card,3,Standard,1,4.2
+696,25,9,19.99,1,3,Monthly,Net Banking,2,Premium,0,3.8
+697,7,6,9.99,1,18,Quarterly,Debit Card,5,Standard,0,4.2
+698,28,0,9.99,0,22,Annual,Net Banking,3,Premium,0,4.0
+699,25,6,14.99,0,34,Monthly,Debit Card,1,Standard,1,2.9
+700,9,4,19.99,0,8,Quarterly,UPI,1,Basic,0,1.9
+701,25,2,14.99,1,19,Monthly,UPI,3,Basic,1,5.0
+702,29,12,14.99,0,6,Quarterly,Credit Card,0,Premium,0,2.6
+703,1,2,9.99,1,26,Monthly,Credit Card,0,Standard,1,4.1
+704,18,3,9.99,0,34,Monthly,Net Banking,1,Basic,1,3.9
+705,8,12,14.99,0,6,Quarterly,UPI,1,Standard,1,2.5
+706,6,11,19.99,1,33,Monthly,Debit Card,2,Standard,0,3.2
+707,3,1,9.99,1,22,Quarterly,Debit Card,4,Standard,0,4.2
+708,25,1,19.99,1,21,Quarterly,Debit Card,2,Premium,0,2.6
+709,20,0,19.99,1,6,Annual,Credit Card,6,Standard,1,3.8
+710,17,14,14.99,0,6,Monthly,Debit Card,1,Standard,0,3.2
+711,12,4,14.99,1,4,Monthly,Credit Card,2,Basic,1,3.8
+712,10,3,14.99,0,30,Monthly,Credit Card,1,Basic,1,1.8
+713,28,10,14.99,0,11,Annual,Net Banking,3,Basic,0,4.3
+714,23,9,9.99,1,30,Annual,Debit Card,3,Basic,1,4.1
+715,3,14,9.99,1,31,Quarterly,Debit Card,2,Standard,0,5.0
+716,24,1,14.99,1,24,Annual,UPI,4,Standard,0,3.8
+717,20,2,9.99,1,9,Quarterly,Net Banking,2,Basic,0,3.3
+718,28,6,14.99,1,3,Quarterly,UPI,3,Premium,0,4.2
+719,24,6,19.99,0,31,Monthly,Net Banking,2,Basic,1,2.8
+720,3,11,19.99,0,24,Quarterly,Debit Card,2,Basic,0,2.1
+721,9,3,19.99,1,31,Monthly,Credit Card,1,Basic,0,5.0
+722,4,4,14.99,0,6,Annual,Credit Card,3,Basic,0,2.5
+723,8,4,19.99,1,2,Quarterly,Credit Card,3,Basic,1,2.5
+724,23,5,9.99,1,20,Quarterly,Credit Card,2,Standard,0,5.0
+725,2,13,19.99,0,28,Monthly,Credit Card,0,Standard,1,2.6
+726,16,8,19.99,1,11,Monthly,UPI,1,Premium,0,3.5
+727,2,1,19.99,1,4,Monthly,Net Banking,1,Basic,0,2.6
+728,15,4,9.99,0,15,Monthly,Debit Card,5,Basic,0,4.4
+729,3,11,14.99,1,6,Monthly,UPI,1,Basic,0,3.0
+730,17,2,9.99,1,30,Annual,Net Banking,3,Standard,1,4.0
+731,16,3,14.99,0,2,Quarterly,Credit Card,2,Basic,0,3.7
+732,6,9,14.99,1,15,Monthly,Net Banking,3,Premium,1,4.3
+733,23,5,19.99,1,11,Monthly,Net Banking,4,Standard,0,4.0
+734,22,11,14.99,0,8,Monthly,Credit Card,3,Standard,0,1.6
+735,29,7,9.99,1,26,Quarterly,Credit Card,3,Standard,1,3.4
+736,4,0,9.99,0,5,Quarterly,Credit Card,2,Basic,1,3.2
+737,11,9,14.99,1,6,Annual,Debit Card,3,Basic,0,3.4
+738,16,13,19.99,1,26,Monthly,Credit Card,2,Basic,0,4.2
+739,22,7,19.99,0,4,Annual,Debit Card,2,Standard,0,3.5
+740,12,10,9.99,0,19,Annual,Credit Card,5,Basic,0,3.8
+741,22,13,19.99,1,20,Monthly,Debit Card,4,Basic,1,3.0
+742,24,6,14.99,1,33,Annual,Net Banking,1,Premium,1,5.0
+743,2,0,14.99,1,20,Monthly,UPI,2,Basic,0,4.6
+744,8,1,9.99,0,12,Annual,Net Banking,3,Premium,1,3.0
+745,29,2,14.99,1,1,Monthly,Net Banking,2,Standard,0,4.9
+746,16,0,9.99,1,26,Annual,Credit Card,2,Basic,0,5.0
+747,16,13,14.99,1,14,Annual,Debit Card,0,Basic,0,2.8
+748,29,8,9.99,0,11,Annual,UPI,3,Basic,0,2.8
+749,19,7,19.99,1,13,Quarterly,Credit Card,2,Standard,0,2.1
+750,15,1,14.99,1,3,Monthly,Credit Card,3,Standard,0,4.2
+751,24,12,14.99,0,33,Monthly,Credit Card,2,Standard,0,3.3
+752,21,8,9.99,1,6,Monthly,Net Banking,3,Premium,0,4.0
+753,12,6,9.99,0,10,Monthly,Debit Card,2,Standard,1,2.5
+754,26,8,14.99,1,5,Quarterly,Debit Card,2,Basic,0,2.4
+755,18,5,9.99,1,23,Monthly,UPI,2,Basic,0,4.3
+756,16,5,14.99,0,10,Annual,Debit Card,3,Premium,1,4.2
+757,3,10,19.99,1,2,Quarterly,Debit Card,2,Basic,1,3.5
+758,11,13,9.99,1,13,Annual,Credit Card,1,Basic,1,4.4
+759,28,3,14.99,0,2,Monthly,Credit Card,1,Standard,0,1.7
+760,8,9,19.99,1,20,Annual,Net Banking,3,Standard,0,4.4
+761,18,9,19.99,1,1,Annual,Credit Card,0,Premium,0,3.7
+762,11,12,14.99,1,9,Monthly,Credit Card,0,Standard,0,3.4
+763,8,12,9.99,0,17,Quarterly,Credit Card,3,Basic,1,2.4
+764,6,1,14.99,1,9,Quarterly,Credit Card,2,Premium,0,3.7
+765,27,6,19.99,1,11,Monthly,Net Banking,2,Basic,0,4.3
+766,13,4,14.99,0,15,Quarterly,Credit Card,0,Basic,0,2.0
+767,19,10,9.99,1,24,Monthly,UPI,2,Standard,0,3.7
+768,18,5,19.99,1,35,Monthly,UPI,1,Basic,1,4.0
+769,25,1,14.99,1,30,Monthly,UPI,2,Standard,0,3.1
+770,14,4,9.99,1,31,Monthly,UPI,3,Basic,0,5.0
+771,15,9,19.99,1,5,Monthly,Credit Card,1,Standard,0,3.3
+772,20,3,9.99,1,14,Monthly,UPI,5,Basic,0,3.5
+773,4,8,19.99,0,11,Annual,Credit Card,1,Standard,0,2.2
+774,2,5,14.99,1,9,Quarterly,Net Banking,2,Premium,0,5.0
+775,11,1,9.99,1,34,Annual,UPI,2,Basic,0,4.4
+776,24,0,19.99,1,12,Monthly,Debit Card,1,Basic,1,3.3
+777,19,4,9.99,1,35,Monthly,UPI,3,Basic,1,4.9
+778,26,8,9.99,1,35,Quarterly,UPI,1,Basic,1,4.2
+779,20,5,14.99,1,1,Monthly,Credit Card,1,Standard,1,4.2
+780,3,9,9.99,1,22,Monthly,UPI,1,Standard,0,3.7
+781,20,11,19.99,1,29,Quarterly,Debit Card,1,Basic,0,3.4
+782,22,6,19.99,1,8,Monthly,Credit Card,4,Basic,0,4.3
+783,15,4,19.99,0,11,Quarterly,Credit Card,0,Basic,1,2.6
+784,24,9,19.99,0,14,Quarterly,Net Banking,1,Standard,1,4.5
+785,6,5,14.99,1,30,Monthly,Net Banking,1,Basic,1,3.0
+786,12,4,9.99,0,35,Monthly,UPI,1,Premium,0,4.2
+787,20,10,14.99,0,21,Quarterly,Net Banking,1,Standard,1,2.9
+788,9,8,9.99,0,5,Monthly,Net Banking,1,Basic,0,3.2
+789,25,14,9.99,0,19,Monthly,Net Banking,0,Standard,0,3.7
+790,6,5,9.99,0,14,Annual,Credit Card,3,Premium,0,2.5
+791,13,10,14.99,1,26,Monthly,Credit Card,0,Standard,0,4.7
+792,25,7,9.99,0,4,Quarterly,Credit Card,3,Basic,0,1.0
+793,4,1,14.99,1,25,Annual,Net Banking,1,Basic,0,3.4
+794,2,11,19.99,1,25,Monthly,Credit Card,6,Premium,0,3.3
+795,22,12,19.99,1,18,Monthly,Net Banking,1,Standard,0,3.0
+796,28,8,9.99,0,8,Monthly,Credit Card,2,Standard,1,2.8
+797,10,4,14.99,1,14,Monthly,Credit Card,1,Premium,0,4.3
+798,10,6,19.99,1,32,Monthly,Debit Card,1,Premium,0,4.6
+799,17,9,14.99,1,33,Quarterly,UPI,4,Premium,1,4.2
+800,14,12,14.99,1,23,Monthly,Net Banking,1,Basic,1,3.5
+801,11,0,9.99,1,15,Quarterly,Debit Card,2,Standard,0,4.3
+802,8,9,19.99,0,33,Annual,Credit Card,3,Standard,0,3.1
+803,9,4,9.99,1,25,Annual,Net Banking,0,Standard,0,4.7
+804,25,11,9.99,1,17,Quarterly,Credit Card,1,Standard,0,4.6
+805,11,13,19.99,1,33,Monthly,UPI,1,Basic,0,4.0
+806,16,9,19.99,1,2,Quarterly,Debit Card,1,Standard,1,3.3
+807,28,13,14.99,0,14,Quarterly,UPI,3,Standard,0,2.5
+808,5,1,19.99,1,6,Monthly,Debit Card,1,Basic,1,3.6
+809,6,11,14.99,0,6,Monthly,Credit Card,2,Standard,1,2.7
+810,13,5,14.99,0,3,Annual,UPI,3,Basic,1,3.2
+811,12,10,14.99,0,7,Monthly,UPI,1,Basic,0,3.6
+812,7,0,19.99,0,8,Monthly,Credit Card,2,Basic,1,3.0
+813,9,2,9.99,1,15,Monthly,UPI,3,Standard,0,4.0
+814,8,4,14.99,0,29,Monthly,Net Banking,1,Standard,0,3.1
+815,17,3,9.99,0,33,Annual,Debit Card,2,Standard,0,2.6
+816,26,2,9.99,1,30,Quarterly,Debit Card,3,Standard,0,3.3
+817,25,9,19.99,1,27,Quarterly,Debit Card,2,Premium,1,2.6
+818,1,12,9.99,1,29,Monthly,Net Banking,0,Basic,0,3.4
+819,4,4,9.99,1,33,Monthly,Debit Card,3,Basic,0,4.4
+820,28,10,19.99,1,27,Monthly,Credit Card,2,Premium,0,3.4
+821,4,7,14.99,0,33,Monthly,UPI,2,Basic,0,2.8
+822,5,10,9.99,0,4,Monthly,Net Banking,0,Premium,0,3.4
+823,18,3,19.99,1,22,Quarterly,Debit Card,1,Premium,1,4.4
+824,7,0,9.99,0,2,Monthly,Credit Card,0,Standard,0,2.1
+825,15,10,9.99,1,10,Quarterly,UPI,1,Premium,0,4.8
+826,12,6,14.99,0,5,Monthly,UPI,1,Basic,0,3.9
+827,0,7,9.99,0,10,Monthly,Net Banking,2,Basic,0,2.1
+828,21,2,19.99,1,33,Monthly,Net Banking,3,Standard,0,3.3
+829,19,5,9.99,1,13,Annual,Net Banking,3,Basic,0,5.0
+830,16,1,14.99,1,31,Annual,Credit Card,2,Premium,1,3.9
+831,6,6,14.99,1,24,Annual,Credit Card,2,Basic,0,2.2
+832,24,14,19.99,0,15,Monthly,Net Banking,4,Standard,0,1.9
+833,12,7,14.99,0,29,Monthly,Debit Card,1,Standard,0,2.8
+834,3,5,9.99,1,8,Quarterly,UPI,3,Standard,1,3.1
+835,3,5,14.99,1,5,Monthly,UPI,3,Basic,0,3.7
+836,5,4,19.99,0,29,Annual,Credit Card,4,Basic,0,3.0
+837,27,7,14.99,1,4,Monthly,UPI,2,Premium,1,5.0
+838,18,0,14.99,0,12,Monthly,Debit Card,4,Basic,0,2.8
+839,28,9,14.99,1,2,Monthly,UPI,3,Premium,0,4.9
+840,11,3,19.99,0,27,Monthly,Credit Card,2,Standard,0,4.1
+841,21,14,14.99,1,31,Quarterly,Credit Card,3,Standard,0,5.0
+842,6,3,14.99,1,26,Monthly,Debit Card,2,Standard,0,4.2
+843,26,2,9.99,0,27,Monthly,Debit Card,2,Basic,0,1.4
+844,9,2,19.99,1,5,Monthly,UPI,4,Standard,0,4.4
+845,25,3,14.99,1,20,Monthly,UPI,4,Premium,0,4.8
+846,18,10,19.99,0,11,Quarterly,Credit Card,1,Standard,0,2.9
+847,6,0,14.99,0,10,Annual,Debit Card,1,Premium,1,4.4
+848,29,13,14.99,0,6,Annual,Debit Card,0,Standard,1,3.7
+849,2,10,14.99,0,8,Quarterly,Debit Card,3,Basic,1,3.5
+850,12,12,9.99,1,23,Monthly,UPI,1,Basic,0,4.9
+851,12,10,9.99,1,26,Quarterly,Debit Card,6,Premium,0,4.3
+852,17,1,9.99,1,12,Monthly,Credit Card,1,Basic,0,2.0
+853,27,8,19.99,0,26,Monthly,Credit Card,1,Premium,0,2.6
+854,29,9,19.99,0,13,Annual,UPI,3,Premium,1,4.0
+855,25,1,9.99,0,18,Monthly,Net Banking,3,Basic,0,2.4
+856,19,4,19.99,1,25,Annual,UPI,0,Basic,0,3.8
+857,27,8,14.99,1,33,Monthly,Net Banking,2,Standard,0,3.2
+858,7,8,14.99,0,12,Quarterly,Debit Card,1,Basic,0,4.4
+859,28,7,14.99,1,4,Quarterly,UPI,3,Standard,0,5.0
+860,8,0,9.99,1,5,Annual,Credit Card,1,Standard,0,3.3
+861,6,0,19.99,1,8,Quarterly,Debit Card,3,Standard,0,4.1
+862,0,8,9.99,1,28,Quarterly,Credit Card,5,Standard,1,3.5
+863,2,12,19.99,1,31,Monthly,Debit Card,0,Basic,0,4.5
+864,12,10,14.99,1,9,Quarterly,UPI,1,Standard,1,4.4
+865,27,7,9.99,1,29,Monthly,Net Banking,2,Basic,1,4.6
+866,29,9,19.99,1,14,Quarterly,Debit Card,1,Basic,0,4.3
+867,24,8,19.99,0,22,Quarterly,Net Banking,5,Standard,1,5.0
+868,27,6,14.99,0,11,Quarterly,Debit Card,1,Premium,0,2.2
+869,16,2,9.99,0,23,Monthly,Credit Card,3,Basic,1,1.6
+870,24,2,9.99,1,1,Monthly,Credit Card,2,Standard,0,3.7
+871,23,1,9.99,0,21,Quarterly,Debit Card,2,Standard,0,1.7
+872,0,4,14.99,1,26,Monthly,Net Banking,0,Basic,0,2.8
+873,5,11,9.99,1,23,Monthly,UPI,2,Basic,0,3.2
+874,20,11,14.99,1,1,Monthly,UPI,2,Premium,1,3.3
+875,5,2,14.99,0,15,Annual,Credit Card,4,Standard,0,2.2
+876,25,13,14.99,1,21,Quarterly,UPI,0,Standard,0,4.4
+877,11,5,19.99,1,9,Monthly,Credit Card,3,Standard,0,3.6
+878,12,1,9.99,1,9,Monthly,UPI,3,Basic,1,3.9
+879,12,11,9.99,0,10,Monthly,Debit Card,3,Standard,0,3.7
+880,28,2,14.99,1,26,Quarterly,Credit Card,2,Standard,0,3.4
+881,14,4,14.99,0,35,Quarterly,Credit Card,0,Standard,0,2.8
+882,20,11,9.99,0,25,Monthly,Debit Card,2,Basic,1,3.3
+883,15,10,14.99,1,26,Monthly,Credit Card,2,Basic,0,2.4
+884,21,10,9.99,1,11,Monthly,UPI,1,Basic,0,2.1
+885,20,0,19.99,1,2,Quarterly,UPI,0,Premium,0,4.3
+886,10,12,14.99,1,7,Quarterly,Credit Card,0,Standard,1,4.4
+887,27,0,9.99,1,18,Monthly,UPI,1,Standard,0,5.0
+888,4,9,14.99,1,27,Monthly,Net Banking,0,Basic,0,4.1
+889,3,8,9.99,0,34,Monthly,Credit Card,2,Basic,0,3.7
+890,2,6,9.99,1,27,Annual,Debit Card,1,Standard,1,3.8
+891,18,0,14.99,0,17,Monthly,Net Banking,3,Standard,1,3.2
+892,19,14,19.99,1,24,Quarterly,Credit Card,1,Standard,0,5.0
+893,24,11,9.99,1,25,Quarterly,Debit Card,1,Basic,0,2.3
+894,17,13,9.99,0,7,Monthly,UPI,6,Standard,0,3.3
+895,14,7,9.99,1,6,Monthly,Debit Card,3,Basic,0,5.0
+896,8,2,19.99,1,24,Monthly,Net Banking,1,Basic,0,4.2
+897,16,7,19.99,1,33,Quarterly,UPI,1,Standard,0,5.0
+898,13,14,14.99,1,29,Quarterly,Credit Card,4,Basic,0,3.5
+899,14,4,19.99,1,22,Quarterly,UPI,3,Basic,1,4.0
+900,0,0,14.99,1,26,Quarterly,Credit Card,0,Standard,0,4.0
+901,20,6,14.99,0,28,Monthly,Credit Card,0,Standard,0,1.2
+902,21,4,19.99,1,21,Annual,Debit Card,3,Premium,0,3.1
+903,21,5,14.99,1,7,Quarterly,Debit Card,3,Standard,0,3.1
+904,2,5,19.99,0,17,Monthly,Debit Card,4,Basic,0,3.7
+905,15,7,14.99,0,20,Annual,Net Banking,2,Basic,0,3.7
+906,22,8,19.99,1,20,Quarterly,Net Banking,1,Premium,0,4.3
+907,24,1,19.99,1,22,Quarterly,Debit Card,4,Standard,1,4.7
+908,10,8,14.99,1,28,Quarterly,Net Banking,2,Standard,1,3.9
+909,11,11,9.99,1,7,Annual,UPI,1,Basic,0,5.0
+910,9,14,14.99,0,1,Quarterly,UPI,2,Standard,0,3.0
+911,15,10,19.99,0,32,Monthly,Net Banking,2,Basic,0,3.0
+912,7,9,9.99,1,13,Monthly,Net Banking,2,Standard,0,3.8
+913,5,8,14.99,0,30,Annual,UPI,1,Premium,0,3.5
+914,11,12,14.99,0,23,Monthly,Credit Card,0,Premium,1,2.7
+915,23,9,14.99,0,19,Monthly,UPI,3,Standard,1,3.8
+916,27,14,9.99,1,32,Monthly,UPI,4,Standard,1,3.1
+917,20,9,19.99,1,30,Monthly,Net Banking,6,Premium,0,3.1
+918,7,6,14.99,0,29,Quarterly,UPI,4,Standard,1,3.5
+919,25,0,14.99,1,29,Annual,Net Banking,2,Basic,1,3.9
+920,27,6,14.99,1,30,Monthly,Net Banking,1,Standard,0,3.6
+921,3,9,14.99,1,16,Monthly,Debit Card,4,Basic,0,4.7
+922,25,4,14.99,0,19,Monthly,UPI,2,Standard,1,2.5
+923,7,5,19.99,1,18,Annual,Credit Card,3,Standard,0,3.8
+924,25,9,19.99,0,1,Quarterly,Debit Card,2,Standard,0,4.1
+925,27,6,14.99,1,14,Monthly,Net Banking,3,Basic,0,5.0
+926,17,13,9.99,1,2,Annual,Net Banking,0,Basic,0,5.0
+927,27,14,19.99,0,28,Annual,Credit Card,2,Standard,0,2.8
+928,27,4,9.99,1,30,Annual,Net Banking,2,Premium,1,5.0
+929,4,6,19.99,1,4,Annual,UPI,2,Standard,0,3.2
+930,8,8,14.99,0,1,Monthly,Debit Card,3,Basic,0,2.3
+931,3,2,19.99,1,8,Quarterly,Net Banking,2,Premium,0,2.1
+932,26,7,14.99,0,29,Monthly,Net Banking,2,Premium,0,4.3
+933,21,1,19.99,1,3,Annual,Credit Card,3,Basic,0,3.3
+934,16,10,14.99,1,32,Quarterly,UPI,5,Basic,0,3.9
+935,8,6,14.99,1,10,Quarterly,Net Banking,3,Standard,0,3.3
+936,0,12,14.99,0,10,Quarterly,Credit Card,0,Premium,0,3.6
+937,20,1,14.99,1,19,Monthly,Net Banking,2,Premium,0,3.7
+938,19,14,9.99,1,34,Quarterly,Credit Card,3,Premium,0,3.0
+939,12,13,14.99,1,33,Annual,Credit Card,2,Standard,0,4.4
+940,27,3,9.99,1,23,Annual,UPI,3,Standard,0,2.9
+941,15,6,9.99,1,28,Monthly,Net Banking,2,Basic,1,3.3
+942,28,2,14.99,0,32,Monthly,UPI,0,Basic,0,1.3
+943,12,1,9.99,0,7,Monthly,Credit Card,2,Standard,0,1.9
+944,13,10,19.99,1,29,Quarterly,Debit Card,1,Standard,0,4.1
+945,2,9,14.99,0,8,Annual,Net Banking,2,Standard,0,1.4
+946,28,6,9.99,1,1,Monthly,Debit Card,2,Standard,1,2.8
+947,5,0,14.99,1,3,Quarterly,Net Banking,4,Basic,0,4.0
+948,17,13,14.99,0,24,Annual,UPI,0,Standard,0,2.6
+949,18,14,14.99,1,23,Quarterly,UPI,2,Basic,0,5.0
+950,4,7,9.99,1,8,Quarterly,UPI,0,Standard,0,5.0
+951,14,2,19.99,1,3,Quarterly,UPI,0,Standard,1,3.3
+952,24,11,19.99,0,33,Quarterly,UPI,1,Standard,0,3.4
+953,1,11,9.99,0,28,Monthly,Debit Card,2,Premium,0,3.6
+954,9,12,14.99,1,8,Quarterly,UPI,0,Basic,0,3.5
+955,23,1,9.99,1,34,Quarterly,Credit Card,1,Standard,0,2.8
+956,29,2,9.99,1,35,Annual,Credit Card,4,Basic,1,4.0
+957,17,4,9.99,1,32,Quarterly,Debit Card,3,Standard,0,3.9
+958,26,10,14.99,0,24,Quarterly,Net Banking,4,Premium,0,2.7
+959,12,7,9.99,1,14,Monthly,Credit Card,2,Standard,0,4.4
+960,4,9,14.99,0,32,Monthly,Net Banking,2,Premium,0,2.4
+961,22,6,9.99,1,16,Monthly,Debit Card,2,Basic,0,3.1
+962,23,6,19.99,1,4,Monthly,Net Banking,1,Premium,0,4.1
+963,0,11,9.99,1,21,Quarterly,Net Banking,1,Basic,0,4.3
+964,21,6,9.99,1,14,Annual,Net Banking,1,Premium,0,3.1
+965,0,14,19.99,0,31,Monthly,Net Banking,1,Basic,0,3.7
+966,17,7,14.99,1,18,Monthly,Debit Card,3,Basic,1,2.6
+967,14,0,14.99,0,7,Annual,Credit Card,2,Standard,0,2.5
+968,16,3,9.99,1,10,Monthly,UPI,2,Premium,0,3.8
+969,10,12,19.99,0,7,Quarterly,Net Banking,2,Basic,0,2.5
+970,20,5,14.99,1,33,Quarterly,Credit Card,0,Basic,0,3.5
+971,25,8,9.99,1,23,Quarterly,Credit Card,1,Premium,0,5.0
+972,24,12,19.99,0,21,Monthly,Debit Card,4,Basic,1,2.3
+973,21,1,14.99,0,19,Monthly,Credit Card,2,Basic,0,5.0
+974,26,0,14.99,1,19,Quarterly,Debit Card,4,Standard,0,4.3
+975,26,12,19.99,1,29,Quarterly,Net Banking,4,Basic,0,4.1
+976,16,9,19.99,0,18,Monthly,Net Banking,2,Premium,0,3.4
+977,12,11,19.99,0,2,Quarterly,UPI,1,Standard,0,5.0
+978,0,13,19.99,0,1,Monthly,UPI,3,Standard,1,2.2
+979,1,1,9.99,1,5,Quarterly,UPI,3,Premium,0,3.1
+980,8,6,19.99,1,20,Monthly,Credit Card,1,Standard,0,3.4
+981,2,2,14.99,0,11,Annual,Net Banking,1,Basic,0,3.0
+982,0,9,14.99,0,2,Monthly,Debit Card,4,Basic,0,1.6
+983,20,1,9.99,0,3,Monthly,UPI,1,Standard,0,3.0
+984,15,13,14.99,0,23,Monthly,Debit Card,4,Basic,0,4.4
+985,22,10,14.99,1,12,Monthly,Debit Card,0,Premium,0,4.1
+986,5,6,19.99,0,20,Annual,UPI,3,Standard,0,2.8
+987,27,12,14.99,0,5,Annual,Net Banking,3,Basic,0,2.5
+988,16,12,9.99,1,30,Monthly,UPI,3,Standard,0,4.7
+989,4,1,19.99,0,9,Monthly,Debit Card,2,Standard,0,2.3
+990,4,2,19.99,1,34,Quarterly,UPI,1,Premium,0,5.0
+991,5,10,9.99,1,35,Annual,Debit Card,0,Premium,0,5.0
+992,2,6,19.99,1,22,Quarterly,Debit Card,2,Standard,0,4.2
+993,20,13,19.99,1,24,Monthly,UPI,2,Standard,0,4.0
+994,22,3,9.99,1,17,Monthly,Credit Card,2,Standard,1,4.8
+995,4,12,19.99,1,10,Quarterly,UPI,3,Standard,0,4.9
+996,20,13,9.99,1,30,Monthly,Credit Card,3,Basic,0,3.4
+997,4,0,9.99,1,23,Quarterly,Debit Card,1,Basic,0,3.6
+998,9,12,14.99,1,32,Monthly,Debit Card,2,Standard,0,2.9
+999,9,13,14.99,1,17,Quarterly,Credit Card,1,Basic,0,4.3
+1000,18,4,19.99,0,17,Monthly,Debit Card,2,Basic,0,3.5
